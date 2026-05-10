@@ -38,10 +38,10 @@ powershell -File "C:\Users\32407\.trae-cn\skills\ocr-image-text\scripts\ocr.ps1"
 
 | 格式 | 说明 |
 |------|------|
-| PNG | 支持 |
-| JPG/JPEG | 支持 |
-| BMP | 支持 |
-| GIF | 需先转为 PNG |
+| PNG | ✅ 支持 |
+| JPG/JPEG | ✅ 支持 |
+| BMP | ✅ 支持 |
+| GIF | ⚠️ 需先转为 PNG |
 
 ## 注意事项
 
